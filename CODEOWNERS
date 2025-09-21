@@ -1,0 +1,16 @@
+# Global owners
+* @your-github-username
+
+# Frontend specific
+/apps/web/ @your-github-username @frontend-team-member
+
+# Backend specific
+/apps/api/ @your-github-username @backend-team-member
+
+# DevOps and CI/CD
+/.github/ @your-github-username @devops-team-member
+/docker-compose*.yml @your-github-username @devops-team-member
+
+# Documentation
+/docs/ @your-github-username @technical-writer
+README.md @your-github-username @technical-writer
